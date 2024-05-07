@@ -57,7 +57,7 @@ export const BrandingAIBanner: FunctionComponent = (): ReactElement => {
     const generateAIBrandingPreference: GenerateAIBrandingPreferenceFunc = useGenerateAIBrandingPreference();
 
     /**
-     * Handles the click event of the expand button.
+     * Handles the click event of the expand button..
      */
     const handleExpandClick = () => {
         setBannerState(BannerState.INPUT);
