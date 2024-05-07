@@ -64,7 +64,7 @@ export const BrandingAIBanner: FunctionComponent = (): ReactElement => {
     };
 
     /**
-     * Handles the click event of the collapse button..
+     * Handles the click event of the collapse button...
      */
     const handleCollapseClick = () => {
         setBannerState(BannerState.COLLAPSED);
