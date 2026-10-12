@@ -1,0 +1,195 @@
+{
+  "stock_console_cdn_blocked": {
+    "block": "cdn",
+    "editors": {
+      "script-editor": {
+        "rendered": false,
+        "viewLines": 0,
+        "ms": 25003
+      },
+      "branding-json": {
+        "rendered": false,
+        "viewLines": 0,
+        "ms": 25007
+      },
+      "org-branding-json": {
+        "rendered": false,
+        "viewLines": 0,
+        "ms": 25004
+      }
+    },
+    "summary": {
+      "cdnRequests": 34,
+      "abortedCount": 17,
+      "nonOriginRequests": [
+        "https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap",
+        "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXp-p7K4KLg.woff2",
+        "https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap",
+        "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXp-p7K4KLg.woff2",
+        "https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.36.1/min/vs/loader.js",
+        "https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap",
+        "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXp-p7K4KLg.woff2",
+        "https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.36.1/min/vs/loader.js",
+        "https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap",
+        "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXp-p7K4KLg.woff2",
+        "https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap",
+        "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXp-p7K4KLg.woff2"
+      ],
+      "workerRequests": [
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js"
+      ],
+      "monacoChunks": [
+        "FAILED net::ERR_FAILED https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdn.jsdelivr.net/npm/monaco-editor@0.36.1/min/vs/loader.js",
+        "FAILED net::ERR_FAILED https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.36.1/min/vs/loader.js"
+      ],
+      "cdnInFirst25": [],
+      "workerConsoleWarnings": []
+    },
+    "abortedHosts": [
+      "cdn.jsdelivr.net",
+      "cdnjs.cloudflare.com"
+    ],
+    "totalRequests": 1340,
+    "steps": [
+      "opened https://localhost:14043/console -> https://localhost:14043/console",
+      "submitted credentials for admin",
+      "console base: https://localhost:14043/t/carbon.super/console",
+      "opened Login Flow tab",
+      "Conditional Authentication already enabled",
+      "script-editor: monaco rendered=false lines=0 (25003 ms)",
+      "opened Branding > Text",
+      "switched to JSON view",
+      "branding-json: monaco rendered=false lines=0 (25007 ms)",
+      "logs: no log entries to open",
+      "policy: no policy row found",
+      "no login form (existing session?)",
+      "org console base: https://localhost:14043/t/carbon.super/o/2aac7d71-8bba-40c6-bbd6-12e6497a7c6c/console",
+      "org-branding-json: monaco rendered=false lines=0 (25004 ms)"
+    ]
+  },
+  "pr_console_all_non_origin_blocked": {
+    "block": "nonorigin",
+    "editors": {
+      "script-editor": {
+        "rendered": true,
+        "viewLines": 5,
+        "ms": 6,
+        "suggestWidget": true
+      },
+      "branding-json": {
+        "rendered": true,
+        "viewLines": 6,
+        "ms": 199,
+        "errorMarkers": 1
+      },
+      "org-branding-json": {
+        "rendered": true,
+        "viewLines": 6,
+        "ms": 179
+      }
+    },
+    "summary": {
+      "cdnRequests": 0,
+      "abortedCount": 7,
+      "nonOriginRequests": [
+        "https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap",
+        "https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap",
+        "https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap",
+        "https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap",
+        "https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap",
+        "https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap",
+        "https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap"
+      ],
+      "workerRequests": [
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js",
+        "200 https://localhost:14043/console/DHkfYIeF.worker.js"
+      ],
+      "monacoChunks": [
+        "200 https://localhost:14043/console/static/css/monaco-editor.yOrAKHU6.css",
+        "200 https://localhost:14043/console/static/js/monaco-editor.C54VNP7r.js",
+        "200 https://localhost:14043/console/monaco-workers/ts.worker.7zwlTjZF.js",
+        "200 https://localhost:14043/console/monaco-workers/editor.worker.CCoz8h7W.js",
+        "200 https://localhost:14043/console/static/css/monaco-editor.yOrAKHU6.css",
+        "200 https://localhost:14043/console/static/js/monaco-editor.C54VNP7r.js",
+        "200 https://localhost:14043/console/monaco-workers/json.worker.BiE8QmfA.js",
+        "200 https://localhost:14043/console/monaco-workers/editor.worker.CCoz8h7W.js",
+        "200 https://localhost:14043/console/static/css/monaco-editor.yOrAKHU6.css",
+        "200 https://localhost:14043/console/static/js/monaco-editor.C54VNP7r.js",
+        "200 https://localhost:14043/console/monaco-workers/json.worker.BiE8QmfA.js",
+        "200 https://localhost:14043/console/monaco-workers/editor.worker.CCoz8h7W.js"
+      ],
+      "cdnInFirst25": [],
+      "workerConsoleWarnings": []
+    },
+    "abortedHosts": [
+      "fonts.googleapis.com"
+    ],
+    "totalRequests": 1367,
+    "steps": [
+      "opened https://localhost:14043/console -> https://localhost:14043/console",
+      "submitted credentials for admin",
+      "console base: https://localhost:14043/t/carbon.super/console",
+      "opened Login Flow tab",
+      "Conditional Authentication already enabled",
+      "script-editor: monaco rendered=true lines=5 (6 ms)",
+      "script-editor: suggest widget=true",
+      "opened Branding > Text",
+      "switched to JSON view",
+      "branding-json: monaco rendered=true lines=6 (199 ms)",
+      "branding-json: error markers after breaking JSON=1",
+      "logs: no log entries to open",
+      "policy: no policy row found",
+      "no login form (existing session?)",
+      "org console base: https://localhost:14043/t/carbon.super/o/2aac7d71-8bba-40c6-bbd6-12e6497a7c6c/console",
+      "org-branding-json: monaco rendered=true lines=6 (179 ms)"
+    ]
+  }
+}

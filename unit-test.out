@@ -1,0 +1,10 @@
+
+ RUN  v3.2.6 <repo>/features
+
+ ✓ admin.core.v1/components/monaco-editor/__tests__/monaco-workers.test.ts (4 tests) 1ms
+
+ Test Files  1 passed (1)
+      Tests  4 passed (4)
+   Start at  12:58:59
+   Duration  522ms (transform 19ms, setup 0ms, collect 17ms, tests 1ms, environment 0ms, prepare 63ms)
+
